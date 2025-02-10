@@ -47,4 +47,4 @@ This repository contains the files for my final Capstone project, presented as p
 
 ## **Notes**  
 - **Data Limitations:** The dataset was highly imbalanced, making severity and fatality predictions difficult.  
-- **Next Steps:** Future improvements could explore alternative resampling methods or additional external datasets to improve predictive power.  
+- **Computer Limitations:** Grid-Based accident location is a computationally intensive but important outcome to consider predicting.  
